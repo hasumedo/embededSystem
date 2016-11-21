@@ -1,0 +1,4 @@
+/********************************************************************
+*             file directory
+********************************************************************/
+FM:It includes the core code of framework and if we want to transplant code, we can alter the file of port directory.
